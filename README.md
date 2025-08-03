@@ -2,7 +2,7 @@
 
 A modern React-based note-taking app with category tagging, emoji support, and rich text editing.
 
-https://freeimage.host/i/F41PUps
+![Notes App Screenshot](https://iili.io/F41PUps.png)
 
 ---
 
@@ -25,7 +25,6 @@ https://freeimage.host/i/F41PUps
 - Material UI Icons
 - CSS Grid / Flexbox
 - LocalStorage
-
 
 
 npm start
